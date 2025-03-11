@@ -1,0 +1,6 @@
+C:\Users\nishida\Desktop\Test\bin\Debug\ConsoleApplication.exe
+C:\Users\nishida\Desktop\Test\bin\Debug\ConsoleApplication.pdb
+C:\Users\nishida\Desktop\Test\obj\x86\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\nishida\Desktop\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\nishida\Desktop\Test\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\nishida\Desktop\Test\obj\x86\Debug\ConsoleApplication.pdb
